@@ -1,8 +1,8 @@
-# rajacsp.github.io
+# vinayakvitthal.github.io
 
 Personal blog built with [Pelican](https://getpelican.com/) and deployed to GitHub Pages via GitHub Actions.
 
-🔗 **Live site:** [https://rajacsp.github.io](https://rajacsp.github.io)
+🔗 **Live site:** [https://vinayakvitthal.github.io/](https://vinayakvitthal.github.io/)
 
 ## Setup
 
