@@ -1,3 +1,9 @@
+Title: Prompt Engineering: Techniques That Actually Matter
+Date: 2026-04-15
+Category: GenAI
+Tags: prompt-engineering, llm, gpt, claude, few-shot, chain-of-thought, ai, generative-ai
+Slug: prompt-engineering-techniques-that-actually-matter
+
 # Prompt Engineering: Techniques That Actually Matter
 
 > *A practical guide to getting reliable, high-quality outputs from LLMs — with real examples and patterns you can use today*
