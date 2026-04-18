@@ -1,5 +1,5 @@
 Title: LLM Fine-Tuning vs RAG: When to Use Which
-Date: 2026-04-15
+Date: 2026-04-18
 Category: GenAI
 Tags: fine-tuning, rag, llm, retrieval-augmented-generation, ai, machine-learning, gpt
 Slug: llm-finetuning-vs-rag-when-to-use-which
